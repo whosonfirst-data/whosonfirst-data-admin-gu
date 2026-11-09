@@ -92,7 +92,6 @@
     "src:population":"geonames",
     "wof:belongsto":[
         85632163,
-        85681227,
         102191583,
         136253057
     ],
@@ -111,14 +110,13 @@
             "country_id":-1,
             "dependency_id":85632163,
             "empire_id":136253057,
-            "locality_id":1126028107,
-            "region_id":85681227
+            "locality_id":1126028107
         }
     ],
     "wof:id":1126028107,
     "wof:lastmodified":1566643802,
     "wof:name":"Inarajan Village",
-    "wof:parent_id":85681227,
+    "wof:parent_id":85632163,
     "wof:placetype":"locality",
     "wof:population":3052,
     "wof:population_rank":4,

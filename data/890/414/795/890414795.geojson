@@ -25,8 +25,7 @@
     "wof:belongsto":[
         102191583,
         85632163,
-        85633793,
-        85681227
+        85633793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +41,13 @@
             "continent_id":102191583,
             "country_id":85633793,
             "dependency_id":85632163,
-            "locality_id":890414795,
-            "region_id":85681227
+            "locality_id":890414795
         }
     ],
     "wof:id":890414795,
     "wof:lastmodified":1512001686,
     "wof:name":"Japanese Occupation 1941-44 WW2",
-    "wof:parent_id":85681227,
+    "wof:parent_id":85632163,
     "wof:placetype":"locality",
     "wof:population":42500,
     "wof:population_rank":7,

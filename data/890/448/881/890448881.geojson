@@ -25,8 +25,7 @@
     "wof:belongsto":[
         102191583,
         85632163,
-        85633793,
-        85681227
+        85633793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +41,13 @@
             "continent_id":102191583,
             "country_id":85633793,
             "dependency_id":85632163,
-            "locality_id":890448881,
-            "region_id":85681227
+            "locality_id":890448881
         }
     ],
     "wof:id":890448881,
     "wof:lastmodified":1512001689,
     "wof:name":"USN-USA-USAAF Advance Base 1945 WW2",
-    "wof:parent_id":85681227,
+    "wof:parent_id":85632163,
     "wof:placetype":"locality",
     "wof:population":250000,
     "wof:population_rank":10,

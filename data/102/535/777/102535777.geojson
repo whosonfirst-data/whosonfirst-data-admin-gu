@@ -29,8 +29,7 @@
         "state_id":24549721
     },
     "wof:belongsto":[
-        85632163,
-        85681227
+        85632163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,13 +43,13 @@
         {
             "campus_id":102535777,
             "country_id":85632163,
-            "region_id":85681227
+            "dependency_id":85632163
         }
     ],
     "wof:id":102535777,
     "wof:lastmodified":1631744936,
     "wof:name":"Antonio B Won Pat International Airport",
-    "wof:parent_id":85681227,
+    "wof:parent_id":85632163,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-gu",
     "wof:superseded_by":[],
