@@ -69,7 +69,7 @@
     "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"GU",
     "wof:created":1459008913,
-    "wof:geomhash":"e1699bb6757af39ffff475565ce494d7",
+    "wof:geomhash":"d8c1f16ee62068cbd6f6dcb51adff891",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -106,5 +106,5 @@
     144.7588,
     13.35522
 ],
-  "geometry": {"coordinates":[144.75880000000001,13.35522],"type":"Point"}
+  "geometry": {"coordinates":[144.7588,13.35522],"type":"Point"}
 }

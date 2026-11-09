@@ -41,7 +41,7 @@
         "gn:id":7839322
     },
     "wof:country":"GU",
-    "wof:geomhash":"233949def815fc433acdc216a3cb1a11",
+    "wof:geomhash":"3725b9adc7a18d563e9411c84a09d547",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,5 +68,5 @@
     144.65773000000004,
     13.31588
 ],
-  "geometry": {"coordinates":[144.65773000000004,13.31588],"type":"Point"}
+  "geometry": {"coordinates":[144.65773,13.31588],"type":"Point"}
 }
