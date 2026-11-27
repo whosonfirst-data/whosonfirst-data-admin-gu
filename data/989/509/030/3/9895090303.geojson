@@ -1,0 +1,76 @@
+{
+  "id": 9895090303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.76726,13.35374,144.76726,13.35374",
+    "geom:latitude":13.35374,
+    "geom:longitude":144.76726,
+    "gn:population":901,
+    "iso:country":"GU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13609086: name \"Ipan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13609086"
+        },
+        {
+            "citation":"GeoNames populated place 13609086: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13609086"
+        },
+        {
+            "citation":"GeoNames populated place 13609086: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13609086"
+        },
+        {
+            "citation":"The hierarchy of WOF region 421171953 (Talofofo), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632163,
+        102191583,
+        136253057,
+        421171953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13609086
+    },
+    "wof:country":"GU",
+    "wof:geomhash":"783a98e356486a56885864faaf7c5cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "empire_id":136253057,
+            "locality_id":9895090303,
+            "region_id":421171953
+        }
+    ],
+    "wof:id":9895090303,
+    "wof:lastmodified":1795746216,
+    "wof:name":"Ipan",
+    "wof:parent_id":421171953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.76726,
+    13.35374,
+    144.76726,
+    13.35374
+],
+  "geometry": {"coordinates":[144.76726,13.35374],"type":"Point"}
+}
